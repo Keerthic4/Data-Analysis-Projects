@@ -4,4 +4,5 @@ This project focuses on sales insights like Top 5 products, Top 5 customers, rev
 
 ## Files
 Folder contains the database, the dashboard (in pbix).
+
 <img width="536" alt="Power BI sales insights" src="https://user-images.githubusercontent.com/71408369/112042190-9e3c5a80-8b1d-11eb-948e-0fc391ab0ca2.png">
